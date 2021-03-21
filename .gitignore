@@ -136,13 +136,10 @@ celerybeat.pid
 # Environments
 .env
 .venv
-env/
 venv/
-ENV/
 env.bak/
 venv.bak/
 pythonenv*
-env*
 .flaskenv
 .env_file
 
